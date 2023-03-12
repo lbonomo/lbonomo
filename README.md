@@ -18,10 +18,10 @@ I am passionate about providing solutions based on free software, in the last fe
 
 ## Skills
 
- - Linux administration (20 years of experience)
+ - Linux administrator (20 years of experience)
  - WordPress plugin development
  - Backend development using Python and NodeJS
- - AWS administration
+ - AWS administrator (EC2/CloudFront/S3/Route53/etc)
 
 ## Things I enjoy working with
 

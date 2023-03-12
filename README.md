@@ -44,11 +44,28 @@ Thanks for visiting my profile!
 
 <!-- https://simpleicons.org/ -->
 
-https://simpleicons.org/<img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django" />
-<img src="" alt="" />
-<img src="" alt="" />
-<img src="" alt="" />
-<img src="" alt="" />
+<img alt="linux" src="./assets/images/linux.svg" style="max-width: 100%;" height=50px;/>
+<img alt="bash" src="./assets/images/gnubash.svg" style="max-width: 100%;" height=50px;/>
+<img alt="php" src="./assets/images/php.svg" style="max-width: 100%;" height=50px;/>
+<img alt="wordpress" src="./assets/images/wordpress.svg" style="max-width: 100%;" height=50px;/>
+<img alt="python" src="./assets/images/python.svg" style="max-width: 100%;" height=50px;/>
+<img alt="django"  src="./assets/images/django.svg" style="max-width: 100%;" height=50px;/>
+<img alt="rust" src="./assets/images/rust.svg" style="max-width: 100%;" height=50px;/>
+<img alt="node.js" src="./assets/images/nodedotjs.svg" style="max-width: 100%;" height=50px;/>
+<img alt="docker" src="./assets/images/docker.svg" style="max-width: 100%;" height=50px;/>
+<img alt="aws" src="./assets/images/amazonaws.svg" style="max-width: 100%;" height=50px;/>
+<img alt="terraform" src="./assets/images/terraform.svg" style="max-width: 100%;" height=50px;/>
+<img alt="nginx" src="./assets/images/nginx.svg" style="max-width: 100%;" height=50px;/>
+<img alt="apache" src="./assets/images/apache.svg" style="max-width: 100%;" height=50px;/>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/graphql-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/images/graphql.svg">
+    <img alt="graphql" src="./assets/images/graphql.svg" style="max-width: 100%;" height=50px;/>
+</picture>
+
+<!-- <img alt="" src="./assets/images/" style="max-width: 100%;" height=50px;/>
+<img alt="" src="./assets/images/" style="max-width: 100%;" height=50px;/> -->
 
 
 

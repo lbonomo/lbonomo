@@ -28,23 +28,23 @@ I am passionate about providing solutions based on free software, in the last fe
 <!-- https://simpleicons.org/ -->
 
 <p align="center">
-    <img alt="linux" src="./assets/images/linux.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="bash" src="./assets/images/gnubash.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="php" src="./assets/images/php.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="wordpress" src="./assets/images/wordpress.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="python" src="./assets/images/python.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="django"  src="./assets/images/django.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="rust" src="./assets/images/rust.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="node.js" src="./assets/images/nodedotjs.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="docker" src="./assets/images/docker.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="aws" src="./assets/images/amazonaws.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="terraform" src="./assets/images/terraform.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="nginx" src="./assets/images/nginx.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="apache" src="./assets/images/apache.svg" style="max-width: 100%;" height=32px;/>
-    <img alt="graphql" src="./assets/images/graphql.svg" style="max-width: 100%;" height=32px;/>
+    <img alt="linux" title="linux" src="./assets/images/linux.svg" style="max-width: 100%;" height=32px />
+    <img alt="bash" title="bash" src="./assets/images/gnubash.svg" style="max-width: 100%;" height=32px />
+    <img alt="php" title="PHP" src="./assets/images/php.svg" style="max-width: 100%;" height=32px />
+    <img alt="wordpress" title="WordPress" src="./assets/images/wordpress.svg" style="max-width: 100%;" height=32px />
+    <img alt="python" title="Python" src="./assets/images/python.svg" style="max-width: 100%;" height=32px />
+    <img alt="django"  title="django" src="./assets/images/django.svg" style="max-width: 100%;" height=32px />
+    <img alt="rust" title="Rust" src="./assets/images/rust.svg" style="max-width: 100%;" height=32px />
+    <img alt="node.js" title="NodeJS" src="./assets/images/nodedotjs.svg" style="max-width: 100%;" height=32px />
+    <img alt="docker" title="Docker" src="./assets/images/docker.svg" style="max-width: 100%;" height=32px />
+    <img alt="aws" title="AWS" src="./assets/images/amazonaws.svg" style="max-width: 100%;" height=32px />
+    <img alt="terraform" title="Terraform" src="./assets/images/terraform.svg" style="max-width: 100%;" height=32px />
+    <img alt="nginx" title="nginx" src="./assets/images/nginx.svg" style="max-width: 100%;" height=32px />
+    <img alt="apache" title="Apache" src="./assets/images/apache.svg" style="max-width: 100%;" height=32px />
+    <img alt="graphql" title="GraphQL" src="./assets/images/graphql.svg" style="max-width: 100%;" height=32px />
     <!--
-    <img alt="" src="./assets/images/" style="max-width: 100%;" height=32px;/>
-    <img alt="" src="./assets/images/" style="max-width: 100%;" height=32px;/>
+    <img alt="" src="./assets/images/" style="max-width: 100%;" height=32px/>
+    <img alt="" src="./assets/images/" style="max-width: 100%;" height=32px/>
     -->
 </p>
 

@@ -1,6 +1,12 @@
-# Hi there 👋
+# Hi there 👋 <img src="https://komarev.com/ghpvc/?username=lbonomo&label=Profile%20views&color=0e75b6&style=flat" alt="lbonomo" />
 
 I'm Lucas, a Linux administrator with over 20 years of experience.
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbonomo&show_icons=true&locale=en&layout=compact" alt="lbonomo" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lbonomo&show_icons=true&locale=en" alt="lbonomo" />
+
+
 
 
 ## Skills
@@ -34,12 +40,18 @@ Thanks for visiting my profile!
 
 
 
+## T
+
+<!-- https://simpleicons.org/ -->
+
+https://simpleicons.org/<img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django" />
+<img src="" alt="" />
+<img src="" alt="" />
+<img src="" alt="" />
+<img src="" alt="" />
 
 
 
-:revolving_hearts:
-
-:sparkling_heart:
 
 
 <!-- 

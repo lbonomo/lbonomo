@@ -28,8 +28,8 @@ I am passionate about providing solutions based on free software, in the last fe
 <!-- https://simpleicons.org/ -->
 
 <p align="center">
-    <img alt="linux" title="linux" src="./assets/images/linux.svg" style="max-width: 100%;" height=32px />
-    <img alt="bash" title="bash" src="./assets/images/gnubash.svg" style="max-width: 100%;" height=32px />
+    <img alt="linux" title="Linux" src="./assets/images/linux.svg" style="max-width: 100%;" height=32px />
+    <img alt="bash" title="Bash" src="./assets/images/gnubash.svg" style="max-width: 100%;" height=32px />
     <img alt="php" title="PHP" src="./assets/images/php.svg" style="max-width: 100%;" height=32px />
     <img alt="wordpress" title="WordPress" src="./assets/images/wordpress.svg" style="max-width: 100%;" height=32px />
     <img alt="python" title="Python" src="./assets/images/python.svg" style="max-width: 100%;" height=32px />

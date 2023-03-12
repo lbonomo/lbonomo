@@ -44,7 +44,8 @@ Thanks for visiting my profile!
 
 <!-- https://simpleicons.org/ -->
 
-<img alt="linux" src="./assets/images/linux.svg" style="max-width: 100%;" height=50px;/>
+<p align="center">
+ <img alt="linux" src="./assets/images/linux.svg" style="max-width: 100%;" height=50px;/>
 <img alt="bash" src="./assets/images/gnubash.svg" style="max-width: 100%;" height=50px;/>
 <img alt="php" src="./assets/images/php.svg" style="max-width: 100%;" height=50px;/>
 <img alt="wordpress" src="./assets/images/wordpress.svg" style="max-width: 100%;" height=50px;/>
@@ -57,12 +58,8 @@ Thanks for visiting my profile!
 <img alt="terraform" src="./assets/images/terraform.svg" style="max-width: 100%;" height=50px;/>
 <img alt="nginx" src="./assets/images/nginx.svg" style="max-width: 100%;" height=50px;/>
 <img alt="apache" src="./assets/images/apache.svg" style="max-width: 100%;" height=50px;/>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/graphql-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/images/graphql.svg">
-    <img alt="graphql" src="./assets/images/graphql.svg" style="max-width: 100%;" height=50px;/>
-</picture>
+<img alt="graphql" src="./assets/images/graphql.svg" style="max-width: 100%;" height=50px;/>
+</p>
 
 <!-- <img alt="" src="./assets/images/" style="max-width: 100%;" height=50px;/>
 <img alt="" src="./assets/images/" style="max-width: 100%;" height=50px;/> -->

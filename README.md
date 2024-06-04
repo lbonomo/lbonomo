@@ -63,7 +63,7 @@ Here are some of my recent projects:
 
 ### Contact me
 
-You can reach me at [bonomo.lucas@gmail.com](mailto:bonomo.lucas@gmail.com) or by Telegram at [@bonomo](https://t.me/lbonomo). My English level is basic, but I'm always trying to improve my language skills.
+You can reach me at [bonomo.lucas@gmail.com](mailto:bonomo.lucas@gmail.com) or by Telegram at [@bonomo](https://t.me/lbonomo). My English level is ~basic~ intermediate, but I'm always trying to improve my language skills.
 
 Thanks for visiting my profile!
 

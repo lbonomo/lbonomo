@@ -34,7 +34,7 @@ I am passionate about providing solutions based on free software, in the last fe
     <img alt="wordpress" title="WordPress" src="./assets/images/wordpress.svg" style="max-width: 100%;" height=32px />
     <img alt="python" title="Python" src="./assets/images/python.svg" style="max-width: 100%;" height=32px />
     <img alt="django"  title="django" src="./assets/images/django.svg" style="max-width: 100%;" height=32px />
-    <img alt="rust" title="Rust" src="./assets/images/rust.svg" style="max-width: 100%;" height=32px />
+<!--     <img alt="rust" title="Rust" src="./assets/images/rust.svg" style="max-width: 100%;" height=32px /> -->
     <img alt="node.js" title="NodeJS" src="./assets/images/nodedotjs.svg" style="max-width: 100%;" height=32px />
     <img alt="docker" title="Docker" src="./assets/images/docker.svg" style="max-width: 100%;" height=32px />
     <img alt="aws" title="AWS" src="./assets/images/amazonaws.svg" style="max-width: 100%;" height=32px />
